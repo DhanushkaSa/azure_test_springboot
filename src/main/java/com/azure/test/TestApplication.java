@@ -11,7 +11,7 @@ public class TestApplication {
 
 	@GetMapping("/message")
 	public String hello(){
-		return "Hello Azure !";
+		return "Hello Azure ! I'm Dhanushka Sandaruwan";
 	}
 
 	public static void main(String[] args) {
